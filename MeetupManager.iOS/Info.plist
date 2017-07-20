@@ -39,7 +39,7 @@
 		<string>Icon-Small-40</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>com.refractored.meetupmanager</string>
+	<string>com.srkrathore.meetupmanager</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
